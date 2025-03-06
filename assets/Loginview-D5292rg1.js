@@ -1,0 +1,1 @@
+import{c as r,o as s}from"./index-CLli9_mz.js";const _=(e,t)=>{const c=e.__vccOpts||e;for(const[o,n]of t)c[o]=n;return c},a={};function f(e,t){return s(),r("div",null,"登录页")}const i=_(a,[["render",f]]);export{i as default};
