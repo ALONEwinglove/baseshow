@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a3 as a,a4 as o}from"./index-CdHv5Se6.js";const r={};function t(c,n){return o(),a("div",null,"kuangjia")}const f=e(r,[["render",t]]);export{f as default};
